@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://growald-agency.de/sitemap.xml

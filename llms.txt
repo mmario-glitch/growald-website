@@ -1,0 +1,42 @@
+# growald
+
+> growald ist eine Amazon- und E-Commerce-Agentur für etablierte Consumer Brands im DACH-Raum (Umsatz ab ca. 1 Mio. €). Direkte 1:1-Beratung, keine pauschalen Wachstums- oder Umsatzgarantien, Einstieg über ein 20-Stunden-Paket zu 89 € netto/Std. (1.780 € netto). growald bietet keine Rechts- oder Steuerberatung.
+
+## Kostenlose Rechner (ohne Anmeldung, laufen im Browser)
+
+- [Break-even-ACoS- und ROAS-Rechner](https://growald-agency.de/acos-tacos-deckungsbeitrag.html#rechner): Berechnet aus Verkaufspreis, Landed Cost, Amazon-Gebühren, FBA-Versand und Retourenquote den Deckungsbeitrag vor Werbung, die Marge sowie den produktspezifischen Break-even-ACoS und Break-even-ROAS. Kernaussage: Der Break-even-ACoS entspricht der Marge vor Werbung und ist für jedes Produkt anders — ein pauschaler Ziel-ACoS für ein ganzes Konto führt systematisch in die Irre.
+- [Deckungsbeitrag-nach-Werbung-Rechner](https://growald-agency.de/profitabilitaets-analyse.html#rechner): Führt Preis, Kosten, Retouren, ACoS und Absatzmenge zu einem Deckungsbeitrag je Einheit und pro Monat zusammen. Kernaussage: ROAS und ACoS sagen nichts darüber, ob am Monatsende Geld übrig bleibt.
+- [Vendor-vs-Seller-Rechner](https://growald-agency.de/vendor-seller-analyse.html#rechner): Vergleicht den Deckungsbeitrag je Einheit unter Vendor-Central- und Seller-Central-Bedingungen. Kernaussage: Die Modellfrage ist produktspezifisch und rechenbar, nicht pauschal beantwortbar.
+
+Alle drei Rechner arbeiten ausschließlich clientseitig; es werden keine Eingaben übertragen oder gespeichert.
+
+## Leistungsbereiche
+
+- [E-Commerce-Beratung](https://growald-agency.de/ecommerce-beratung.html): Profitabilität, Sortiment, Produktentwicklung, Sourcing und Prozesse für Shop und Marktplätze. 12 Einzelthemen, u. a. [E-Commerce-Audit & 90-Tage-Roadmap](https://growald-agency.de/ecommerce-audit-roadmap.html), [Profitabilitäts- & Deckungsbeitragsanalyse](https://growald-agency.de/profitabilitaets-analyse.html), [Sortimentsstrategie & Opportunity Mapping](https://growald-agency.de/sortimentsstrategie.html), [Markt-, Keyword- & Konkurrenzanalyse für neue Produkte](https://growald-agency.de/marktanalyse-neue-produkte.html), [Kalkulation & Business Case](https://growald-agency.de/kalkulation-business-case.html), [Sourcing & Lieferantenmanagement](https://growald-agency.de/sourcing-lieferantenmanagement.html), [Qualitätssicherung & Compliance-Vorbereitung](https://growald-agency.de/qualitaet-compliance.html), [Shopify-Beratung](https://growald-agency.de/shopify-beratung.html), [Launch-Planung Shop & Marktplätze](https://growald-agency.de/launchplanung-shop-marktplaetze.html), [Prozessanalyse & Automatisierungspotenziale](https://growald-agency.de/prozessautomatisierung-ecommerce.html), [Internationalisierung / Marktplatz-Expansion](https://growald-agency.de/internationalisierung.html), [Sparring für Geschäftsführung & E-Commerce-Leitung](https://growald-agency.de/sparring-geschaeftsfuehrung.html).
+- [Amazon-Beratung](https://growald-agency.de/amazon-beratung.html): Werbung, Listings, Account-Technik und Profitabilität als zusammenhängendes System. 12 Einzelthemen, u. a. [Amazon Account- & PPC-Audit](https://growald-agency.de/amazon-account-ppc-audit.html), [Sponsored Products, Brands & Display](https://growald-agency.de/sponsored-ads-management.html), [Kampagnenstruktur, Gebote & Suchbegriffe](https://growald-agency.de/kampagnenstruktur-gebote.html), [Break-even-ACoS, TACoS & Deckungsbeitrag](https://growald-agency.de/acos-tacos-deckungsbeitrag.html), [Keyword-, Markt- & Wettbewerbsanalyse](https://growald-agency.de/keyword-wettbewerbsanalyse-amazon.html), [Listing-SEO](https://growald-agency.de/listing-seo.html), [A+ Content, Brand Story & Brand Store](https://growald-agency.de/a-plus-content-brand-store.html), [Varianten, Feeds & Account Health](https://growald-agency.de/varianten-feeds-account-health.html), [Vendor- vs. Seller-Central-Analyse](https://growald-agency.de/vendor-seller-analyse.html), [Neue Produktplanung & Marktanalyse für Amazon](https://growald-agency.de/neue-produktplanung-amazon.html), [UGC-Videowerbung für Amazon Ads](https://growald-agency.de/ugc-video-ads.html), [Laufendes Performance-Reporting](https://growald-agency.de/laufendes-reporting.html).
+- [KI-Beratung](https://growald-agency.de/ki-loesungen.html): 11 konkrete KI-Automatisierungen für wiederkehrende Prozesse im Mittelstand (Angebote, Marketing/Content, Workflows, Voice Agents, CRM, Recruiting, Chatbots, E-Mail, Dokumente, Rechnungen, Reporting/BI).
+
+## Insights (fachliche Artikel)
+
+- [ACoS allein reicht nicht](https://growald-agency.de/blog-amazon-kennzahlen.html): Sieben Kennzahlen, die Amazon-Wachstum gemeinsam erklären, inklusive durchgerechnetem Break-even-ACoS-Beispiel.
+- [Wann ein hoher ROAS trotzdem unprofitabel ist](https://growald-agency.de/blog-roas-profitabilitaet.html): Warum ROAS 5 ein Verlustgeschäft sein kann, plus drei Verfahren zur Messung von Inkrementalität ohne Data-Science-Team.
+- [E-Commerce-Audit: Die 20 Fragen](https://growald-agency.de/blog-ecommerce-audit.html): Strukturierter Audit vor der nächsten Wachstumsinitiative, mit Durchführungsplan und den ersten 30 Tagen danach.
+- [7 E-Commerce-Prozesse für KI-Automatisierung](https://growald-agency.de/blog-ki-prozesse.html): Anwendungsfälle, echte Kostenrechnung und die Grenzen, an denen KI zuverlässig scheitert.
+- [KI im Kundenservice](https://growald-agency.de/blog-ki-kundenservice.html): Was automatisiert werden sollte, was nicht, wie ein gestufter Rollout ohne Vertrauensverlust aussieht.
+- [Von Excel zu klaren Prozessen](https://growald-agency.de/blog-excel-automatisierung.html): Stufenplan mit Kostenrechnung für einen manuellen Wochenreport.
+
+## Weitere Seiten
+
+- [Preise](https://growald-agency.de/preise.html): Beratungspakete und laufende Betreuungspakete im Überblick.
+- [Über uns](https://growald-agency.de/ueber-uns.html), [Insights/Blog](https://growald-agency.de/blog.html), [Kontakt](https://growald-agency.de/kontakt.html).
+
+## Referenzen
+
+Eigene Amazon-Marken: Natureich (Lernspielzeug aus Holz), Bollmex (Rasenmähermesser für Mähroboter). Betreute Marken u. a. tallox (Sägeketten), Saborando (koreanische Hautpflege), Don Bosco Medien (Kinderbücher/Kamishibai), Milo & Mia (Tiernahrung), Likery (Schmuck), HighTechCOM (Engineering), Farbe des Weines (Wein).
+
+## Hinweise
+
+- Alle Preise netto zzgl. USt., Angebote ausschließlich für Unternehmer im Sinne des § 14 BGB.
+- growald bietet keine Rechts- oder Steuerberatung; bei entsprechenden Fragen wird an Anwalt/Steuerberater verwiesen.
+- Es gibt keine Erfolgs-, Umsatz- oder Ranking-Garantien; das 20-Stunden-Einstiegspaket enthält ausdrücklich keine Fertigstellungsgarantie.
+- Vollständige Seitenliste: [sitemap.xml](https://growald-agency.de/sitemap.xml).

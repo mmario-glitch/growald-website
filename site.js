@@ -28,12 +28,3 @@ if (toggle && navigation) {
 document.querySelectorAll("[data-year]").forEach((node) => {
   node.textContent = new Date().getFullYear();
 });
-
-document.querySelectorAll(".site-footer").forEach((footer) => {
-  if (footer.querySelector(".ai-disclosure")) return;
-
-  const disclosure = document.createElement("p");
-  disclosure.className = "ai-disclosure";
-  disclosure.textContent = "Transparenzhinweis: Teile der Inhalte dieser Website wurden mithilfe künstlicher Intelligenz erstellt und von Mario Moosbauer redaktionell geprüft und verantwortet.";
-  footer.append(disclosure);
-});
