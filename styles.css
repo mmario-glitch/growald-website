@@ -36,7 +36,7 @@
   --paper-green: #f0f4ed;
   --ink: #10241b;
   --body: #33453d;
-  --muted: #68766f;
+  --muted: #5a6760;
   --line: #d7ded7;
   --white: #ffffff;
   --shadow-sm: 0 1px 2px rgba(16, 36, 27, 0.05);
@@ -101,8 +101,9 @@ h4 {
   font-weight: 760;
   letter-spacing: -0.035em;
   line-height: 1.12;
-  overflow-wrap: anywhere;
+  overflow-wrap: break-word;
   hyphens: auto;
+  hyphenate-limit-chars: 12 5 5;
 }
 
 h1 {
@@ -282,8 +283,14 @@ h3 {
 .btn:focus-visible,
 a:focus-visible,
 button:focus-visible {
-  outline: 3px solid rgba(124, 174, 85, 0.5);
+  outline: 3px solid var(--forest-700);
   outline-offset: 3px;
+}
+
+.section-dark a:focus-visible,
+.site-footer a:focus-visible,
+.section-dark .btn:focus-visible {
+  outline-color: var(--lime);
 }
 
 .btn-primary {
@@ -1990,6 +1997,7 @@ button:focus-visible {
   padding: 1.3rem;
 }
 
+.related-card h3,
 .related-card h4 {
   margin: 0 0 0.5rem;
   font-size: 1.02rem;
@@ -2848,5 +2856,112 @@ button:focus-visible {
 @media (max-width: 860px) {
   .calc-body {
     grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+/* v6: impeccable polish pass (08.10.2026) */
+h1,
+h2 {
+  text-wrap: balance;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  -webkit-hyphenate-limit-before: 5;
+  -webkit-hyphenate-limit-after: 5;
+}
+
+@media (min-width: 981px) {
+  h1,
+  h2 {
+    hyphens: manual;
+  }
+}
+
+a.signal-item:focus-visible {
+  outline-color: var(--lime);
+}
+
+@media (min-width: 981px) {
+  .section-head > div {
+    flex: 1.5 1 0;
+  }
+
+  .section-head > .section-intro {
+    flex: 1 1 0;
+  }
+}
+
+p,
+li {
+  text-wrap: pretty;
+}
+
+::selection {
+  background: var(--lime);
+  color: var(--forest-950);
+}
+
+a {
+  text-underline-offset: 0.18em;
+}
+
+input,
+textarea,
+select {
+  accent-color: var(--forest-700);
+  caret-color: var(--forest-700);
+}
+
+.trust-item strong,
+.reference-metric strong,
+.calc-result strong {
+  font-variant-numeric: tabular-nums;
+}
+
+.section-dark .split-copy p {
+  color: #b4c2b8;
+}
+
+.nobr {
+  white-space: nowrap;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+a.signal-item {
+  color: inherit;
+  transition: border-color 0.2s ease, background-color 0.2s ease;
+}
+
+a.signal-item:hover {
+  border-color: rgba(184, 231, 90, 0.45);
+}
+
+.service-card h3 {
+  margin-top: 0;
+}
+
+@media (max-width: 720px) {
+  .text-link,
+  .footer-links a,
+  .footer-bottom a,
+  .breadcrumb a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+  }
+
+  .footer-links {
+    gap: 0;
   }
 }
