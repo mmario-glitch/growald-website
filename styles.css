@@ -386,7 +386,7 @@ button:focus-visible {
   margin-bottom: 1.7rem;
 }
 
-.hero h1 span {
+.hero h1 span:not(.nobr) {
   color: var(--forest-600);
 }
 
