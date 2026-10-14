@@ -2965,3 +2965,43 @@ a.signal-item:hover {
     gap: 0;
   }
 }
+
+/* Language switch DE | EN */
+.lang-switch {
+  display: flex;
+  align-items: center;
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  padding: 2px;
+  font-size: 0.78rem;
+  font-weight: 650;
+  letter-spacing: 0.04em;
+}
+
+.lang-switch a,
+.lang-switch span {
+  border-radius: 7px;
+  padding: 0.38rem 0.5rem;
+  line-height: 1;
+}
+
+.lang-switch a {
+  color: var(--muted);
+  transition: background 160ms ease, color 160ms ease;
+}
+
+.lang-switch a:hover {
+  background: var(--paper-green);
+  color: var(--forest-800);
+}
+
+.lang-switch span[aria-current] {
+  background: var(--forest-900);
+  color: var(--paper);
+}
+
+.translation-note {
+  margin-top: 0.8rem;
+  font-size: 0.9rem;
+  color: var(--muted);
+}

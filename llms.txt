@@ -1,6 +1,6 @@
 # growald
 
-> growald ist eine Amazon- und E-Commerce-Agentur für etablierte Consumer Brands im DACH-Raum (Umsatz ab ca. 1 Mio. €). Direkte 1:1-Beratung, keine pauschalen Wachstums- oder Umsatzgarantien, Einstieg über ein 20-Stunden-Paket zu 89 € netto/Std. (1.780 € netto). growald bietet keine Rechts- oder Steuerberatung.
+> growald ist eine KI-Agentur, spezialisiert auf E-Commerce-Prozesse und Amazon, für etablierte Consumer Brands (Umsatz ab ca. 1 Mio. €). Prozesse in anderen Branchen automatisiert growald ebenfalls. Direkte 1:1-Beratung, keine pauschalen Wachstums- oder Umsatzgarantien, Einstieg über ein 20-Stunden-Paket zu 89 € netto/Std. (1.780 € netto). growald bietet keine Rechts- oder Steuerberatung.
 
 ## Kostenlose Rechner (ohne Anmeldung, laufen im Browser)
 
@@ -42,3 +42,58 @@ Eigene Amazon-Marken: Natureich (Lernspielzeug aus Holz), Bollmex (Rasenmäherme
 - growald bietet keine Rechts- oder Steuerberatung; bei entsprechenden Fragen wird an Anwalt/Steuerberater verwiesen.
 - Es gibt keine Erfolgs-, Umsatz- oder Ranking-Garantien; das 20-Stunden-Einstiegspaket enthält ausdrücklich keine Fertigstellungsgarantie.
 - Vollständige Seitenliste: [sitemap.xml](https://growald-agency.de/sitemap.xml).
+
+## English version
+
+growald is an AI agency specialising in e-commerce processes and Amazon, and we automate processes in other industries too. Every page is available in English:
+
+- [A+ Content, Brand Story & Brand Store – growald](https://growald-agency.de/en/a-plus-content-brand-store.html): A+ Content, Brand Story and Brand Store built consistently with your brand positioning. Amazon consulting from €89/hr net
+- [Break-even ACoS, TACoS & contribution margin – growald](https://growald-agency.de/en/acos-tacos-contribution-margin.html): Break-even ACoS, TACoS and contribution margin connected instead of viewed in isolation. From €89/hr net
+- [Terms and conditions | growald](https://growald-agency.de/en/terms.html): General Terms and Conditions of growald, Mario Moosbauer sole proprietorship.
+- [Amazon account & PPC audit – growald](https://growald-agency.de/en/amazon-account-ppc-audit.html): Amazon account & PPC audit: Account Health, listings, and ad account reviewed in a structured way. From €89/hr net
+- [Amazon consulting & ads for established brands – growald](https://growald-agency.de/en/amazon-consulting.html): Amazon consulting for established brands: manage PPC, listings, SEO, content, and profitability as one connected system.
+- [Quote automation for businesses – growald](https://growald-agency.de/en/quote-automation.html): Quote automation: replace Excel quotes, digitize calculation, send quotes in minutes instead of days. Starter package from €89/hr net
+- [B2B retailer search – growald](https://growald-agency.de/en/b2b-retailer-search.html): Find and approach suitable retailers, wholesalers, and distributors for your brand in a structured way. Starting from €89/hr net.
+- [ACoS alone is not enough – growald](https://growald-agency.de/en/blog-amazon-metrics.html): Why ACoS alone does not explain Amazon growth, and how TACoS, contribution margin, organic share, conversion and availability work together.
+- [E-commerce audit: 20 questions – growald](https://growald-agency.de/en/blog-ecommerce-audit.html): 20 questions for a structured e-commerce audit before your next growth initiative, from product range and margin to data, processes and responsibility.
+- [From Excel to clear processes – growald](https://growald-agency.de/en/blog-excel-automation.html): From spreadsheets to clear processes: a pragmatic step-by-step plan for reliable, automated e-commerce workflows instead of scattered spreadsheets.
+- [AI in customer service: what to automate – growald](https://growald-agency.de/en/blog-ai-customer-service.html): AI in customer service: which support cases can be automated safely, which should stay with people, and what a clean handover point looks like.
+- [7 e-commerce processes for AI automation – growald](https://growald-agency.de/en/blog-ai-processes.html): Seven e-commerce processes where AI can usefully help today, with examples, risks and a 30-day pilot plan.
+- [When a high ROAS is still unprofitable – growald](https://growald-agency.de/en/blog-roas-profitability.html): A high ROAS looks like a sign of success. Why it can still be unprofitable, and which metrics make the gap visible.
+- [Insights – growald](https://growald-agency.de/en/blog.html): growald Insights: practical articles on e-commerce, Amazon Ads and AI automation.
+- [CRM setup & CRM automation – growald](https://growald-agency.de/en/crm-automation.html): CRM setup & CRM automation for companies: centralize customer data, keep the sales pipeline in view. Starter package from €89/hr net
+- [Privacy policy | growald](https://growald-agency.de/en/privacy-policy.html): Privacy policy of growald, Mario Moosbauer sole proprietorship.
+- [E-commerce audit & 90-day roadmap – growald](https://growald-agency.de/en/ecommerce-audit-roadmap.html): E-commerce audit with a prioritized 90-day roadmap: shop, marketplaces and numbers in a clear order. Starting at €89/hr net
+- [E-commerce consulting for established brands – growald](https://growald-agency.de/en/ecommerce-consulting.html): E-commerce consulting for established brands: profitability, product development, sourcing, processes and prioritized implementation with growald.
+- [Email automation for companies – growald](https://growald-agency.de/en/email-automation.html): Email automation for businesses: automate support inboxes, newsletters and outbound campaigns. Starter package from €89/hr net
+- [Legal notice | growald](https://growald-agency.de/en/legal-notice.html): Legal notice and provider identification of growald, Mario Moosbauer sole proprietorship.
+- [growald – AI agency for e-commerce & Amazon](https://growald-agency.de/en/): growald is an AI agency specialising in e-commerce processes and Amazon: AI automation, Amazon Ads, listings, sourcing and product development for consumer brands.
+- [International expansion / marketplace expansion – growald](https://growald-agency.de/en/international-expansion.html): International and marketplace expansion: market comparison, localization and a prioritized expansion plan. From €89/hr net
+- [Calculation & business case (target price, landed cost) – growald](https://growald-agency.de/en/pricing-business-case.html): Calculate landed cost, target price and break-even properly before investing. E-commerce consulting from €89/hr net
+- [Campaign structure, bids & search terms – growald](https://growald-agency.de/en/campaign-structure-bidding.html): Campaign structure, bids and search terms for Amazon Ads built cleanly instead of grown over time. From €89/hr net
+- [Keyword, market & competitor analysis – growald](https://growald-agency.de/en/amazon-keyword-competitor-analysis.html): Keyword, market and competitor analysis for Amazon: search volume, positioning and niche opportunities. From €89/hr net
+- [AI solutions for mid-sized businesses – growald](https://growald-agency.de/en/ai-solutions.html): AI automation for mid-sized businesses: 6 concrete solutions from quote automation to reporting dashboards. Entry from €89/hr net
+- [Contact – growald](https://growald-agency.de/en/contact.html): Contact growald: request a free growth analysis for e-commerce, Amazon and AI.
+- [Ongoing Amazon performance reporting – growald](https://growald-agency.de/en/performance-reporting.html): Ongoing Amazon performance reporting with prioritized recommendations instead of a plain overview of numbers.
+- [Launch planning for store & marketplaces – growald](https://growald-agency.de/en/launch-planning-shop-marketplaces.html): Launch planning for store and marketplaces: listing, inventory and advertising prepared in sync. From €89/hr net
+- [Consulting areas – growald](https://growald-agency.de/en/services.html): The three consulting areas at growald: e-commerce consulting, Amazon consulting and AI consulting for established businesses.
+- [Listing SEO (titles, bullets, backend keywords) – growald](https://growald-agency.de/en/listing-seo.html): Listing SEO for Amazon: titles, bullet points and backend keywords optimized for customer benefit. From €89/hr net
+- [Marketing & content automation – growald](https://growald-agency.de/en/marketing-content-automation.html): Marketing & content automation: create SEO copy, product descriptions and social media content at scale. Starter package from €89/hr net
+- [Market & competitor analysis for new products – growald](https://growald-agency.de/en/market-analysis-new-products.html): Market, keyword and competitor analysis before product launch: assess demand and competition reliably. From €89/hr net
+- [New product planning & market analysis for Amazon – growald](https://growald-agency.de/en/amazon-product-planning.html): Amazon-specific market analysis before product launch: category dynamics, visibility and advertising budget. From €89/hr net
+- [Pricing & packages – growald](https://growald-agency.de/en/pricing.html): Transparent pricing for e-commerce, Amazon and AI consulting: €89 net per hour, a 20-hour starter package and clearly compared Amazon packages.
+- [Profitability and contribution margin analysis, growald](https://growald-agency.de/en/profitability-analysis.html): Calculate contribution margin per product and channel properly instead of only looking at revenue. E-commerce consulting from €89/hr net
+- [Process analysis and automation potential, growald](https://growald-agency.de/en/ecommerce-process-automation.html): Process analysis for e-commerce: identify manual work and automate it where it counts. From €89/hr net
+- [Quality assurance and compliance preparation, growald](https://growald-agency.de/en/quality-compliance.html): Organize quality criteria and compliance preparation (e.g. CE) in a structured way. growald does not provide legal advice. From €89/hr net
+- [Reporting and business intelligence dashboards, growald](https://growald-agency.de/en/reporting-bi-dashboards.html): Reporting and business intelligence dashboards: bring data sources together, a KPI cockpit instead of spreadsheet sprawl. Starter package from €89/hr net
+- [Shopify consulting, growald](https://growald-agency.de/en/shopify-consulting.html): Shopify consulting: shop audit, conversion optimization and process integration. Hands-on, from €89/hr net
+- [Assortment strategy and opportunity mapping, growald](https://growald-agency.de/en/assortment-strategy.html): Assortment strategy and opportunity mapping: core, expansion and phase-out products clearly prioritized. E-commerce consulting from €89/hr net
+- [Sourcing and supplier management, growald](https://growald-agency.de/en/sourcing-supplier-management.html): Sourcing and supplier management: structured RFQs and quote comparison instead of chance finds. From €89/hr net
+- [Sparring for management and e-commerce leadership, growald](https://growald-agency.de/en/leadership-sparring.html): Sparring for management and e-commerce leadership with hands-on experience from our own brands. From €89/hr net
+- [Sponsored Products, Brands and Display, growald](https://growald-agency.de/en/sponsored-ads-management.html): Optimize Sponsored Products, Brands and Display for contribution margin, not just ACoS. Amazon Ads management from €89/hour net
+- [About growald](https://growald-agency.de/en/about.html): About growald and Mario Moosbauer: AI agency specialising in e-commerce and Amazon, with over ten years of operational experience.
+- [UGC video ads for Amazon Ads – growald](https://growald-agency.de/en/ugc-video-ads.html): UGC video ads for Amazon Ads from €150 net per video, produced by professional creators from our network.
+- [Variants, feeds & Account Health – growald](https://growald-agency.de/en/variations-feeds-account-health.html): Keep variants, feeds and Account Health technically clean, the foundation for all further Amazon measures. From €89/hour net
+- [Vendor vs. Seller Central analysis – growald](https://growald-agency.de/en/vendor-vs-seller-analysis.html): Vendor vs. Seller Central analysis: product-specific contribution margin comparison instead of a blanket recommendation. From €89/hour net
+- [Growth Engine package – growald](https://growald-agency.de/en/growth-engine.html): Monthly support from a single source: Amazon advertising, UGC videos and AI automation. Price individual after analysis, minimum term 6 months.
+- [Workflow automation for businesses – growald](https://growald-agency.de/en/workflow-automation.html): Workflow automation for businesses: automate recurring routine tasks and manual data transfer. Starter package from €89/hour net
