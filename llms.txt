@@ -20,6 +20,7 @@ Alle drei Rechner arbeiten ausschließlich clientseitig; es werden keine Eingabe
 
 ## Insights (fachliche Artikel)
 
+- [Amazon PPC: So steuern Sie Ihre Werbung auf Gewinn](https://growald-agency.de/blog-amazon-ppc.html): Kampagnentypen, Kennzahlen, Rechenbeispiel vom Verkaufspreis bis zum Deckungsbeitrag nach Werbung und ein Vorgehen in 6 Schritten.
 - [ACoS allein reicht nicht](https://growald-agency.de/blog-amazon-kennzahlen.html): Sieben Kennzahlen, die Amazon-Wachstum gemeinsam erklären, inklusive durchgerechnetem Break-even-ACoS-Beispiel.
 - [Wann ein hoher ROAS trotzdem unprofitabel ist](https://growald-agency.de/blog-roas-profitabilitaet.html): Warum ROAS 5 ein Verlustgeschäft sein kann, plus drei Verfahren zur Messung von Inkrementalität ohne Data-Science-Team.
 - [E-Commerce-Audit: Die 20 Fragen](https://growald-agency.de/blog-ecommerce-audit.html): Strukturierter Audit vor der nächsten Wachstumsinitiative, mit Durchführungsplan und den ersten 30 Tagen danach.
@@ -55,6 +56,7 @@ growald is an AI agency specialising in e-commerce processes and Amazon, and we 
 - [Quote automation for businesses – growald](https://growald-agency.de/en/quote-automation.html): Quote automation: replace Excel quotes, digitize calculation, send quotes in minutes instead of days. Starter package from €89/hr net
 - [B2B retailer search – growald](https://growald-agency.de/en/b2b-retailer-search.html): Find and approach suitable retailers, wholesalers, and distributors for your brand in a structured way. Starting from €89/hr net.
 - [Amazon metrics: ACoS alone is not enough – growald](https://growald-agency.de/en/blog-amazon-metrics.html): Why ACoS alone does not explain Amazon growth, and how TACoS, contribution margin, organic share, conversion and availability work together.
+- [Amazon PPC: steer your advertising toward profit – growald](https://growald-agency.de/en/blog-amazon-ppc.html): Amazon PPC explained: campaign types, break-even ACoS with a worked example and a 6-step approach for brands that steer by contribution margin.
 - [E-commerce audit: 20 questions – growald](https://growald-agency.de/en/blog-ecommerce-audit.html): 20 questions for a structured e-commerce audit before your next growth initiative, from product range and margin to data, processes and responsibility.
 - [From Excel to clear processes – growald](https://growald-agency.de/en/blog-excel-automation.html): From spreadsheets to clear processes: a pragmatic step-by-step plan for reliable, automated e-commerce workflows instead of scattered spreadsheets.
 - [AI in customer service: what to automate – growald](https://growald-agency.de/en/blog-ai-customer-service.html): AI in customer service: which support cases can be automated safely, which should stay with people, and what a clean handover point looks like.
